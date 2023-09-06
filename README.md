@@ -1,5 +1,5 @@
 # hebi-cad (cad.hebi.us)
-HEBI Robotics CAD files and meshes
+HEBI Robotics CAD files, drawings, and meshes
 
 ## Organization
 Each item has a folder with its part number and description.  In each folder you will find the 3D information for the part in the following file formats:
