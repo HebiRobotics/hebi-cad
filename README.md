@@ -13,5 +13,3 @@ Each item has a folder with its part number and description.  In each folder you
 * STEP
 * OBJ + MTL
 * 3MF?
-* GLTF?
- 
