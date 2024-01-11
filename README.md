@@ -13,3 +13,6 @@ Each item has a folder with its part number and description.  In each folder you
 * STEP
 * OBJ + MTL
 * 3MF?
+
+## Please Bear With Us
+_This is a work-in-progress as we migrate our public CAD files over from GrabCAD (R.I.P.)_
