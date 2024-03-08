@@ -19,3 +19,6 @@ Each item has a folder with its part number and description.  In each folder you
 
 ## Please Bear With Us
 _This is a work-in-progress as we migrate our public CAD files over from GrabCAD (R.I.P.)_
+
+> [!NOTE] 
+> If there is a HEBI component that you would like CAD files for that is not already found here please contact [support@hebirobotics.com](mailto:support@hebirobotics.com?subject=HEBI%20CAD%20Request)
