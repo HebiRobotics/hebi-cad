@@ -1,5 +1,5 @@
 # hebi-cad (cad.hebi.us)
-HEBI Robotics CAD files, drawings, and meshes
+Public Repository for HEBI Robotics CAD files, drawings, and meshes
 
 > [!IMPORTANT] 
 > The CAD files in this Repository are stored using **Git LFS**. It is suggested to download files individually from the web as opposed to cloning the entire repo. If you choose to clone the entire repository, ensure you have Git LFS installed and initialized or the files will not properly checkout.
@@ -9,16 +9,16 @@ Each item has a folder with its part number and description.  In each folder you
 
 ### Formats that preview natively in Github
 * PDF Drawing (if applicable)
-* PNG Image
+* PNG or JPEG Image
 * STL
 
 ### Other formats
+* SLDPRT (SolidWorks 2022)
 * STEP
 * OBJ + MTL
-* 3MF?
 
-## Please Bear With Us
-_This is a work-in-progress as we migrate our public CAD files over from GrabCAD (R.I.P.)_
+## Let us know if something's missing
+_This repo is migration of our public CAD files from GrabCAD (R.I.P.)_
 
 > [!NOTE] 
-> If there is a HEBI component that you would like CAD files for that is not already found here please contact [support@hebirobotics.com](mailto:support@hebirobotics.com?subject=HEBI%20CAD%20Request)
+> If you find a part where one of the file formats above is missing, or there's a HEBI component that you would like CAD files for that is not already found here please contact [support@hebirobotics.com](mailto:support@hebirobotics.com?subject=HEBI%20CAD%20Request)
