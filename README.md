@@ -16,7 +16,7 @@ In each folder you will find the 3D information for the part in the following fi
 * STL
 
 ### Other formats
-* SLDPRT (SolidWorks 2022)
+* SLDPRT (SolidWorks 2022/2024, new files will be SW2024)
 * STEP
 * OBJ + MTL
 
